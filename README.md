@@ -38,13 +38,19 @@ In each trial, the data collected is as follows:
 For the feedback collected from this experiment, it falls int two parts as follows:
 1. Experiment-related feedback: 
 	>7-point Likert scales to collect the users feedback on distinctiveness, helpfulness, distraction, difficulty, satisfaction, efficiency and frustration.
+	
 		Reason: To capture the user's experience and know what they think and how their experience was.
+		
 	>Comparative ranking of the two menu conditions
+	
 		Reason: To let the users give their opinion about their experience after comparing both menu styles.
 2. Demographics:
 	>Age and Gender:
+	
 		Reason: To capture interesting findings that might arise relating these two measures with the menu experiment.
+		
 	>Computer Experience:
+	
 		Reason: Because the experience of a novice user will different since he/she might not be familiar as much with the traditional menus comparing to an expert user.
 
 
