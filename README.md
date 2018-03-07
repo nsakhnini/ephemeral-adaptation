@@ -13,7 +13,9 @@ For this assignment, I have not discussed it with anyone. The code is completely
 I used the Bootstrap library and the logging code given by the instructor in AS1.
 
 The Video: https://youtu.be/gsGhEkgD6XI
+
 The experiment representation: https://nsakhn2.people.uic.edu/ephemeral/
+
 The Code Repo: https://github.com/nsakhnini/ephemeral-adaptation
 
 In my experiment, I sequenced the tasks as follows:
